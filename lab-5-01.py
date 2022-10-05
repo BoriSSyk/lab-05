@@ -9,3 +9,5 @@ elif -0.7 < x:
 elif x <= -0.7:
     y = math.exp(x)+math.sin(x+math.pi/4)
     print(y)
+else:
+    print("не входить")
